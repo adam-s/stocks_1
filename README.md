@@ -1,1 +1,1 @@
-
+Using LSTM neural network to predict stock prices in the future. This does not work. My best guess is that ML is finding the most logical, sensible price a stock should be and stock prices are never sensible. Perhaps, it should be tested if doing the inverse of the results, the most unsensible guess at future stock prices, might work. I say that in jest. Please don't bet money on the outcome. The model is over fit and will widely diviate within a couple days.
